@@ -16,7 +16,7 @@
 | kim_seong_sik | 김성식 | Kim Seong-sik | 金成植 | Kim Seong-sik | 천박사 퇴마 연구소 |
 | pil_gam_seong | 필감성 | Pil Gam-seong | 毕感成 | Pil Gam-seong | 밀수 |
 | choi_jeong_yeol | 최정열 | Choi Jeong-yeol | 崔正烈 | Choi Jeong-yeol | 인질 |
-| lee_sang_geun | 이상근 | Lee Sang-geun | 李相槿 | Lee Sang-geun | 엑시트 |
+| lee_sang_geun | 이상근 | Lee Sang-geun | 李相槿 | Lee Sang-geun | 엑시트, 악마가 이사왔다 |
 | jang_jae_hyun | 장재현 | Jang Jae-hyun | 张在现 | Jang Jae-hyun | 사바하 |
 | lee_seok_keun | 이석근 | Lee Seok-keun | 李锡根 | Lee Seok-keun | 너의 결혼식 |
 | kim_tae_yong | 김태용 | Kim Tae-yong | 金泰勇 | Kim Tae-yong | 경주 |
@@ -26,6 +26,11 @@
 
 | ID | 한국어 | English | 中文简体 | Español | 주요 작품 |
 |---|---|---|---|---|---|
+| ahn_bo_hyun | 안보현 | Ahn Bo-hyun | 安普贤 | Ahn Bo-hyun | 악마가 이사왔다 |
+| sung_dong_il | 성동일 | Sung Dong-il | 成东日 | Sung Dong-il | 악마가 이사왔다 |
+| joo_hyun_young | 주현영 | Joo Hyun-young | 朱玄英 | Joo Hyun-young | 악마가 이사왔다 |
+| ko_gun_han | 고건한 | Ko Gun-han | 高健汉 | Ko Gun-han | 악마가 이사왔다 |
+| lee_hyo_bi | 이효비 | Lee Hyo-bi |  | Lee Hyo-bi | 악마가 이사왔다 |
 | hwang_jung_min | 황정민 | Hwang Jung-min | 黄政民 | Hwang Jung-min | 베테랑2, 베테랑 |
 | jung_hae_in | 정해인 | Jung Hae-in | 丁海寅 | Jung Hae-in | 베테랑2 |
 | gang_dong_won | 강동원 | Gang Dong-won | 姜栋元 | Gang Dong-won | 천박사 퇴마 연구소 |
@@ -37,7 +42,7 @@
 | don_lee | 마동석 | Don Lee | 马东锡 | Don Lee | 인질 |
 | choi_sung_eun | 최성은 | Choi Sung-eun | 崔成恩 | Choi Sung-eun | 인질 |
 | cho_jung_seok | 조정석 | Cho Jung-seok | 曹政奭 | Cho Jung-seok | 엑시트 |
-| lim_yoon_a | 임윤아 | Lim Yoon-a | 林允儿 | Lim Yoon-a | 엑시트 |
+| lim_yoon_a | 임윤아 | Lim Yoon-a | 林允儿 | Lim Yoon-a | 엑시트, 악마가 이사왔다 |
 | lee_jung_jae | 이정재 | Lee Jung-jae | 李政宰 | Lee Jung-jae | 사바하 |
 | park_bo_young | 박보영 | Park Bo-young | 朴宝英 | Park Bo-young | 너의 결혼식 |
 | kim_young_kwang | 김영광 | Kim Young-kwang | 金英光 | Kim Young-kwang | 너의 결혼식 |

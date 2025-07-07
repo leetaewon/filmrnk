@@ -11,13 +11,7 @@ glossary/
 ├── people.md              # 배우 및 스태프 (89명) 
 ├── terms.md               # 기본 용어 (25개)
 ├── genres-ratings.md      # 장르 및 등급
-├── roles-works.md         # 배역 및 기타 작품
-└── exports/               # 자동 생성 JSON 파일
-    ├── glossary.json      # 통합 JSON
-    ├── glossary-ko.json   # 한국어용
-    ├── glossary-en.json   # 영어용  
-    ├── glossary-zh-CN.json # 중국어용
-    └── glossary-es.json   # 스페인어용
+└── roles-works.md         # 배역 및 기타 작품
 ```
 
 ## 🌍 지원 언어

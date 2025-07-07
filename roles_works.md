@@ -26,6 +26,12 @@
 
 | Character ID | 한국어 | English | 中文简体 | Español |
 |---|---|---|---|---|
+| jung_seon_ji | 장선지 | Jung Seon-ji | 张善知 | Jung Seon-ji |
+| gil_gu | 길구 | Gil-gu | 吉九 | Gil-gu |
+| jung_jang_su | 장장수 | Jung Jang-su | 张长寿 | Jung Jang-su |
+| jung_ah_ra | 정아라 | Jung Ah-ra | 郑雅拉 | Jung Ah-ra |
+| hee_bum | 희범 | Hee-bum | 希范 | Hee-bum |
+| younger_seon_ji | 어린 선지 | Younger Seon-ji | 年幼善知 | Joven Seon-ji |
 | hong_jong_sae | 홍종세 | Hong Jong-sae | 洪钟世 | Hong Jong-sae |
 | yu_seok_hwan | 유석환 | Yu Seok-hwan | 柳石焕 | Yu Seok-hwan |
 | mr_kang | 강선생 | Mr. Kang | 姜老师 | Sr. Kang |
