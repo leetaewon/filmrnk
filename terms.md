@@ -8,6 +8,13 @@
 
 ---
 
+## 회사 정보
+
+| Category | 한국어 | English | 中文简체 | Español |
+|---|---|---|---|---|
+| company_name | 외유내강 | Film R&K | Film R&K | Film R&K |
+| company_type | 영화제작사 | Film Production Company | 电影制作公司 | Productora Cinematográfica |
+
 ## 영화 정보 표시 용어
 
 | Category | 한국어 | English | 中文简体 | Español |
