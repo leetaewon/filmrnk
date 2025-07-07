@@ -12,7 +12,7 @@
 
 | ID | 한국어 | English | 中文简体 | Español | Year |
 |---|---|---|---|---|---|
-| devil_moved_in | 악마가 이사왔다 | The Devil Moved In | 恶魔搬来了 | El Diablo se Mudó | 2025 |
+| devil_moved_in | 악마가 이사왔다 | Pretty Crazy | 恶魔搬来了 | Pretty Crazy | 2025 |
 | veteran2 | 베테랑2 | I, The Executioner | 老手2 | Por encima de la ley 2 | 2024 |
 | dr_cheon | 천박사 퇴마 연구소: 설경의 비밀 | Dr. Cheon And The Lost Talisman | 千博士驱魔研究所 | El Dr. Cheon y el Talismán Perdido | 2023 |
 | smugglers | 밀수 | Smugglers | 走私 | Smugglers | 2023 |
